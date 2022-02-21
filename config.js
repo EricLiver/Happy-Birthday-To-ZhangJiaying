@@ -30,13 +30,13 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "是张佳盈嘛？",
-        play: "是就好()",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
+        play: "是就好(播放音乐)",
+        bannar_coming: "这是为你准备的生日祝福",
+        balloons_flying: "放个气球吧",
+        cake_fadein: "想吃蛋糕吗",
+        light_candle: "点上蜡烛许个愿吧",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "一个小纸条",
     }
 };
 //forked by ericliver a.k.a. liurfly
