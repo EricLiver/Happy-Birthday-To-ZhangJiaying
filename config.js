@@ -21,8 +21,10 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        //"心爱的小可爱": "./imgs/xiaokeai.png",
+        // "今天是你的生日": "./imgs/birthday.jpg"
+        "星光不问赶路人，时光不负有心人。":"./imgs/kdcs.jpg",
+        "一 起 向 未 来 ！":"./imgs/miku.webp",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -36,3 +38,4 @@ var config = {
         story: "A MESSAGE FOR YOU",
     }
 };
+//forked by ericliver a.k.a. liurfly
